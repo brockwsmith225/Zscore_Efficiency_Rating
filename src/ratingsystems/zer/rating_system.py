@@ -8,8 +8,7 @@ from ratingsystems.zer.model import Efficiency
 
 class ZscoreEfficiencyRatingSystem(RatingSystem):
 
-    class Meta:
-        name: str = "zer"
+    name: str = "zer"
     
     def __init__(self):
         pass
