@@ -1,0 +1,2 @@
+[ratingsystems]
+rating_system = ratingsystems.zer:ZscoreEfficiencyRatingSystem
